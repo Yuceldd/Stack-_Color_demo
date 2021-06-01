@@ -18,7 +18,7 @@ public class TankStack : MonoBehaviour
     };
 
     private ColorState currentState=ColorState.Red;
-    void OnCollisionEnter(Collision collision)
+    void OnTriggerEnter(Collider collision)
     {
         if (currentState == ColorState.Red)
         {
