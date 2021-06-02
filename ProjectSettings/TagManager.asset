@@ -6,12 +6,6 @@ TagManager:
   tags:
   - Collectable
   - Collected
-  - CollectableRed
-  - CollectableYellow
-  - CollectableGreen
-  - EvolveRed
-  - EvolveGreen
-  - EvolveYellow
   layers:
   - Default
   - TransparentFX

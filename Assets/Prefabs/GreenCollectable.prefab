@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4504093624156042846}
   m_Layer: 0
   m_Name: GreenCollectable
-  m_TagString: CollectableGreen
+  m_TagString: Collectable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 706bf5651bc6ae940b543a48aa1070d9, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
